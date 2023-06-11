@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.mainuserdiv{
+   padding: 4%;
+   text-align: start;
+}
+.mainuserdiv > h1{
+    margin-bottom: 1rem;
+}
